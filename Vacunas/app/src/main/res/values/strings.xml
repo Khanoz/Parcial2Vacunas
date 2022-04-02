@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Vacunas</string>
+    <string name="welcome">Bienvenido</string>
+    <!---Pre-Register-->
+    <string name="pre_reg_start">Iniciemos creando tu cuenta</string>
+    <string name="pre_reg_family_register">posteriormente podras registrar a tus familiares (hijos, padres o cualquier familiar)</string>
+
+    <!---Register-->
+    <string name="register_gen_info">Informacion general</string>
+    <string name="register_birth_info">Informacion de tu nacimiento</string>
+    <string name="register_login_info">Informacion de inicio de sesion</string>
+    <string name="name">Nombre*</string>
+    <string name="last_name_F">Apellido Paterno*</string>
+    <string name="last_name_M">Apellido Materno*</string>
+    <string name="gender">Sexo*</string>
+    <string name="birthdate">Fecha de nacimiento: (00/00/0000)*</string>
+    <string name="weight">Peso al nacer (0.0Kg)</string>
+    <string name="edad_gestal">Edad gestal</string>
+    <string name="blood_type">Tipo de sangre:</string>
+    <string name="email_required">Correo electronico*</string>
+    <string name="password_required">Contrasenia*</string>
+    <string name="register">Registrarse</string>
+
+    <!---Information-->
+    <string name="birthdate_info">Fecha de nacimiento:</string>
+    <string name="weight_info">Peso al nacer:</string>
+    <string name="sex_info">Sexo:</string>
+    <string name="edad_gestacional_info">Edad gestacional:</string>
+
+    <string name="read_article">Leer articulo</string>
+
+    <string name="email">Correo electronico</string>
+    <string name="password">Contrasenia</string>
+    <string name="login">INICIAR SESION</string>
+    <string name="remember_account">Recordar cuenta</string>
+    <string name="recover_account">Recuperar cuenta</string>
+    <string name="recover_acc_email">Correo electronico asociado*</string>
+    <string name="recover">Recuperar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="bottom_information">Informacion</string>
+    <string name="bottom_vaccine">Vacunas</string>
+    <string name="bottom_news">Noticias</string>
+    <string name="title_activity_nav_drawer">navDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+</resources>
