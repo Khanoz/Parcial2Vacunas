@@ -13,30 +13,16 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="actionOverflowButtonStyle">@style/WhiteOverflow</item>
+    </style>
+    <style name="WhiteOverflow" parent="@style/Widget.AppCompat.ActionButton.Overflow" >
+        <item name="android:tint">@color/white</item>
     </style>
     <!-- Base application theme. -->
-    <style name="Theme.Vacunas.ActionBar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/blue</item>
-        <item name="colorPrimaryVariant">@color/purple_700</item>
-        <item name="colorOnPrimary">@color/white</item>
-        <!-- Secondary brand color. -->
-        <item name="colorSecondary">@color/teal_200</item>
-        <item name="colorSecondaryVariant">@color/teal_700</item>
-        <item name="colorOnSecondary">@color/white</item>
-
-        <!-- Status bar color. -->
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <!-- Customize your theme here. -->
-    </style>
 
     <style name="Theme.Vacunas.Blue" parent="Theme.AppCompat.Light">
         <item name="colorPrimary">@color/white</item>
         <item name="backgroundTint">@color/blue</item>
-        <item name="colorAccent">@color/blue</item>
-    </style>
-
-    <style name="Button.Blue" parent="ThemeOverlay.AppCompat">
         <item name="colorAccent">@color/blue</item>
     </style>
 

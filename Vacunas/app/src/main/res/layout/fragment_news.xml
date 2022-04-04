@@ -2,9 +2,9 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:app="http://schemas.android.com/apk/res-auto"
 xmlns:tools="http://schemas.android.com/tools"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
-tools:context=".ui.vaccines.VaccineFragment">
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+tools:context=".fragments.NewsFragment">
 
     <include
         android:id="@+id/include"
@@ -14,11 +14,11 @@ tools:context=".ui.vaccines.VaccineFragment">
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/include">
 
@@ -26,5 +26,7 @@ tools:context=".ui.vaccines.VaccineFragment">
             android:id="@+id/recyclerView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
+
     </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>

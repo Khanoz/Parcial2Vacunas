@@ -21,6 +21,22 @@
     <string name="password_required">Contrasenia*</string>
     <string name="register">Registrarse</string>
 
+    <!---New Vaccines Dosis-->
+    <string name="Esquema">Esquema de vacunacion</string>
+    <string name="EsquemaEditText">Refuerzo</string>
+    <string name="Date_vac">Fecha de vacunacion</string>
+    <string name="DateEditText">10/09/2021</string>
+    <string name="marca">Marca</string>
+    <string name="marcaEditText">Pfizer</string>
+    <string name="numeroLote">Numero de lote</string>
+    <string name="numeroLoteEditText">00381233 (may/2021)</string>
+    <string name="doctor">Doctor</string>
+    <string name="doctorEditText">Dr. Vargas</string>
+    <string name="centroAplicacion">Centro de aplicacion</string>
+    <string name="centroAplicacionEditText">Centro de salud n03</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="domicilioEditText">Calle 105, Mza. 35, SM. 95, Benito Juarez 77534, Cancun QROO</string>
+
     <!---Information-->
     <string name="birthdate_info">Fecha de nacimiento:</string>
     <string name="weight_info">Peso al nacer:</string>
@@ -37,17 +53,10 @@
     <string name="recover_acc_email">Correo electronico asociado*</string>
     <string name="recover">Recuperar</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_main">MainActivity</string>
     <string name="bottom_information">Informacion</string>
     <string name="bottom_vaccine">Vacunas</string>
     <string name="bottom_news">Noticias</string>
     <string name="title_activity_nav_drawer">navDrawer</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>

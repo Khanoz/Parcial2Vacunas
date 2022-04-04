@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/new_dosis"
+            android:title="Agregar nueva dosis"/>
+        <item
+            android:id="@+id/edit_dosis"
+            android:title="Editar dosis"/>
+        <item
+            android:id="@+id/delete_dosis"
+            android:title="Eliminar dosis"/>
+    </group>
+</menu>

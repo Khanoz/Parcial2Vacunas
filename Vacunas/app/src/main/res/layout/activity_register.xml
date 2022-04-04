@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".RegisterActivity">
+    tools:context=".activities.RegisterActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -38,9 +38,9 @@
                 android:textColor="@color/blue"
                 android:textSize="18sp" />
             <EditText
+                android:id="@+id/name"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/name"
                 android:hint="@string/name"
                 android:background="@drawable/round_corner"
                 android:textColorHint="@color/gray"
@@ -48,9 +48,9 @@
                 android:layout_margin="16dp"
                 android:padding="20dp"/>
             <EditText
+                android:id="@+id/last_name_F"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/last_name_F"
                 android:hint="@string/last_name_F"
                 android:background="@drawable/round_corner"
                 android:textColorHint="@color/gray"
@@ -58,9 +58,9 @@
                 android:layout_margin="16dp"
                 android:padding="20dp"/>
             <EditText
+                android:id="@+id/last_name_M"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/last_name_M"
                 android:hint="@string/last_name_M"
                 android:background="@drawable/round_corner"
                 android:textColorHint="@color/gray"
@@ -68,9 +68,9 @@
                 android:layout_margin="16dp"
                 android:padding="20dp"/>
             <EditText
+                android:id="@+id/gender"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/gender"
                 android:hint="@string/gender"
                 android:background="@drawable/round_corner"
                 android:textColorHint="@color/gray"
@@ -78,9 +78,9 @@
                 android:layout_margin="16dp"
                 android:padding="20dp"/>
             <EditText
+                android:id="@+id/birthdate"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/birthdate"
                 android:hint="@string/birthdate"
                 android:background="@drawable/round_corner"
                 android:textColorHint="@color/gray"
@@ -158,6 +158,7 @@
                 android:layout_margin="16dp"
                 android:padding="20dp"/>
             <Button
+                android:id="@+id/register_user"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="16dp"

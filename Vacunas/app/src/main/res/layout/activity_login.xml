@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActivity">
+    tools:context=".activities.LoginActivity">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -95,7 +95,6 @@
             app:layout_constraintTop_toBottomOf="@+id/password" />
 
         <RadioButton
-            android:id="@+id/rememberBtn"
             android:layout_width="wrap_content"
             android:layout_height="48dp"
             android:layout_marginTop="16dp"

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable-v24/ic_baseline_close_24_white.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2985" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2985" />
@@ -10,38 +11,54 @@
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_face_24.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.326" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.2445" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_newspaper_24.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/ic_baseline_vaccines_24.xml" value="0.326" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/drawable/round_corner.xml" value="0.2985" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_add_vaccine.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_login.xml" value="0.33" />
-        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_nav_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_new_vaccine.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_nueva_dosis.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_register.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/activity_view_vaccine_info.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/app_bar_nav_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/content_nav_drawer.xml" value="0.3611111111111111" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/empty.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_add_vaccine.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_dashboard.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_home.xml" value="0.33" />
-        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_information.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_information.xml" value="0.33238636363636365" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_mi_cuenta_drawer.xml" value="0.2462962962962963" />
-        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_new_vaccine.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_news.xml" value="0.1" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_notifications.xml" value="0.2462962962962963" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_recover_account.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_register.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_vaccine.xml" value="0.3602015113350126" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/fragment_vaccine.xml" value="0.34577603143418467" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/main_header.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/nav_header_nav_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_addvaccine.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_blue_information.xml" value="0.5" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_information.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_news.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_newvaccine_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_vaccine.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_vaccine_info.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_white_back.xml" value="0.5674562306900103" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/toolbar_white_x.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/vaccine_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/vaccine_info_header.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/layout/vaccines.xml" value="0.5" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu-v26/bottom_nav_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu/dosis_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu/nav_drawer.xml" value="0.2462962962962963" />
         <entry key="..\:/Users/Miguel/Desktop/ProgramacionMovil/Parcial2Vacunas/Vacunas/app/src/main/res/menu/top_bar_white_back.xml" value="0.36666666666666664" />
       </map>

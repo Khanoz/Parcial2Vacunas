@@ -10,18 +10,25 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Vacunas">
         <activity
-            android:name=".navDrawer"
-            android:exported="false"
-            android:label="@string/title_activity_nav_drawer"
-            android:theme="@style/Theme.Vacunas.NoActionBar" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".activities.ViewVaccineInfoActivity"
             android:exported="false" />
         <activity
-            android:name=".RegisterActivity"
+            android:name=".activities.NuevaDosisActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".activities.AddVaccineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.NewVaccineActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
